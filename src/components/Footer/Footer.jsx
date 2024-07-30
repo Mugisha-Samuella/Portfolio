@@ -8,13 +8,13 @@ const Footer = () => {
           <div className="row align-items-center justify-content-between flex-column flex-sm-row">
             <div className="col-auto">
               <div className="d-flex justify-content-center fs-2 gap-4">
-                <a className="text-gradient" href="#!">
+                <a className="text-gradient" href="https://x.com/its_Samuella">
                   <i className="bi bi-twitter"></i>
                 </a>
-                <a className="text-gradient" href="#!">
+                <a className="text-gradient" href="https://www.linkedin.com/in/mugisha-samuella-767626248/">
                   <i className="bi bi-linkedin"></i>
                 </a>
-                <a className="text-black" href="#!">
+                <a className="text-black" href="https://github.com/Mugisha-Samuella">
                   <i className="bi bi-github"></i>
                 </a>
               </div>
